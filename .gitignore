@@ -1,0 +1,4 @@
+*.aes
+*config.json
+!tsconfig.json
+node_modules
